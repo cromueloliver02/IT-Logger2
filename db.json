@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "message": "Changed hard drive at workstation 007",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2020-10-18T13:50:46.882Z",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "message": "Internet connection lost at workstation 007",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2020-10-18T14:33:53.283Z"
+    },
+    {
+      "message": "Server failed at workstation 008",
+      "tech": "Cromuel Barut",
+      "attention": true,
+      "date": "2020-10-18T15:48:39.189Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "firstname": "Cromuel",
+      "lastname": "Barut",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "firstname": "Arlene",
+      "lastname": "Barut"
+    }
+  ]
+}
